@@ -1,4 +1,4 @@
-# 🚦 API Rate Limiter - Spring Boot Project
+# 🚦 API Rate Limiter -  Traffic Control Service
 
 🚀 A scalable **API Rate Limiting system** built using **Java, Spring Boot, and Redis** to control the number of API requests a client can make within a specified time window.
 
